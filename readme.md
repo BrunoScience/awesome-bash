@@ -1,10 +1,6 @@
-# Awesome Bash [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+An annotated list list of Bash scripts and resources ... the [***original*** awesome-bash list](https://github.com/awesome-lists/awesome-bash) is probably better for most than this annotated fork.
 
-> A curated list of delightful Bash scripts and resources.
-
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
-
-In addition of this list, you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [awesome-link](https://github.com/sindresorhus/awesome).
+In addition to the [original awesome-bash list](https://github.com/awesome-lists/awesome-bash), you should read the list [awesome-shell](https://github.com/alebcay/awesome-shell). It is a curated list of awesome command-line frameworks, toolkits, guides and gizmos. You may also want to check [awesome-zsh](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish](https://github.com/bucaran/awesome-fish). If you are looking for more lists, check [awesome-link](https://github.com/sindresorhus/awesome).
 
 ## Books and Resources
 
